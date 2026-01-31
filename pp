@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexus Intelligent Layers | Intelligence for Creators</title>
+    <style>
+        /* ESTILO DARK MODE - NEXUS AESTHETIC */
+        body {
+            background-color: #0a0a0a; /* Negro profundo */
+            color: #e0e0e0; /* Blanco suave */
+            font-family: 'Courier New', Courier, monospace; /* Fuente estilo Terminal */
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5rem;
+            letter-spacing: -2px;
+            margin-bottom: 0.5rem;
+        }
+        .subtitle {
+            color: #888;
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+        }
+        .btn {
+            background-color: #ffffff;
+            color: #000000;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: 0.3s;
+            border: 1px solid #fff;
+        }
+        .btn:hover {
+            background-color: #000000;
+            color: #ffffff;
+            cursor: pointer;
+        }
+        .footer {
+            margin-top: 3rem;
+            font-size: 0.8rem;
+            color: #444;
+        }
+        /* Efecto de "Luz" sutil */
+        .glow {
+            text-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+        }
+    </style>
+</head>
+<body>
+
+    <h1 class="glow">NEXUS INTELLIGENT LAYERS</h1>
+    
+    <p class="subtitle">
+        Convertimos el ruido de los comentarios<br>en inteligencia de negocio accionable.
+    </p>
+
+    <a href="https://www.linkedin.com/in/TU-USUARIO-AQUI" class="btn">
+        CONTACTAR AL FUNDADOR
+    </a>
+
+    <div class="footer">
+        <p>System Status: Online ● Latency: 12ms</p>
+        <p>© 2026 Nexus Intelligent Layers. All systems operational.</p>
+    </div>
+
+</body>
+</html>
